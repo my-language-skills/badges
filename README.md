@@ -11,6 +11,9 @@ PNG files 833x833px 72ppi
 Levels
 
 
+PNG-Self-Awareness
+
+
 Skills
 
 
@@ -18,3 +21,5 @@ Teachers
 
 
 Vocabulary
+
+
